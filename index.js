@@ -5,4 +5,4 @@ console.sir = element => {
   console.dir(element)
 }
 
-exports.console
+exports.console = console
