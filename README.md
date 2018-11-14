@@ -1,5 +1,5 @@
 # console.sir
-a polite logger 🤵🏼
+a more polite logger 🤵🏼
 
 `npm install console.sir`
 
