@@ -5,9 +5,4 @@ console.sir = element => {
   console.dir(element)
 }
 
-let robby = {
-  name: "robby",
-  email: "rcackerley@me.com"
-}
-
-console.sir(robby)
+exports.console

@@ -1,0 +1,19 @@
+{
+  "name": "sir",
+  "version": "1.0.0",
+  "description": "a polite logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcackerley/sir.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcackerley/sir/issues"
+  },
+  "homepage": "https://github.com/rcackerley/sir#readme"
+}
