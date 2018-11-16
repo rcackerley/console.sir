@@ -2,9 +2,11 @@
 
 a more polite logger 🤵🏼
 
-`npm install console.sir`
+```
+npm install console.sir
 
-`const {console} = require('console.sir')`
+const {console} = require('console.sir')
 
-`console.sir(variable)`
-`console.king(variable)`
+console.sir(variable)
+console.king(variable)
+```
