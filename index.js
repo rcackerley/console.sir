@@ -5,4 +5,11 @@ console.sir = element => {
   console.dir(element)
 }
 
+console.king = element => {
+  console.log(
+    `May I present you with a ${typeof element}, your Grace 🤴🏼` + "\n"
+  )
+  console.dir(element)
+}
+
 exports.console = console
